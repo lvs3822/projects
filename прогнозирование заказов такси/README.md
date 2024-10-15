@@ -5,3 +5,13 @@
 
 Данные лежат в файле /datasets/taxi.csv.
 Количество заказов находится в столбце 'num_orders'.
+
+Используемые библиотеки:
+- pandas
+- numpy
+- scipy
+- matplotlib
+- seaborn
+- statsmodel
+- sklearn
+- lightgbm
